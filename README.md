@@ -8,7 +8,7 @@ A basic, test-ready Vapor template.
 ## Getting started 🚀
 This template has everything ready to go. Just create a new project using [Vapor toolbox](https://vapor.github.io/documentation/getting-started/install-toolbox.html).
 ```bash
-vapor new MyApp --template=nodes-vapor/template
+vapor new MyApp --template=nodes-vapor/template-old
 ```
 
 ## Project layout 🗂
